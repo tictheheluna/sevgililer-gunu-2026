@@ -9,6 +9,7 @@ const initialItems = [
     { id: 4, text: "Sabaha kadar dans etmek", done: false },
     { id: 5, text: "Birlikte bir evcil hayvan sahiplenmek", done: false },
     { id: 6, text: "Çocukluğum olman", done: false },
+    { id: 7, text: "Beraber anime cosplayi yapmak", done: false },
 ];
 
 const BucketList = () => {

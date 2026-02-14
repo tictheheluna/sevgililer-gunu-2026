@@ -464,7 +464,7 @@ const InteractiveIntro = ({ onComplete }) => {
                         className="bg-white/80 backdrop-blur-sm p-8 rounded-3xl shadow-2xl max-w-md w-full text-center relative z-10 mx-4 border border-white/50"
                     >
                         <h2 className="text-3xl md:text-4xl font-romantic text-love-700 mb-8 leading-tight">
-                            Götünü Yiyim miii<br />Nolarrrrr
+                            Yanaklarını Yiyim miii<br />Nolarrrrr
                         </h2>
 
                         <div className="flex flex-col md:flex-row gap-4 justify-center items-center h-48 relative">
